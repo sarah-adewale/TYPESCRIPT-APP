@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Creamsicle",
+        "price": 10.99,
+        "imgUrl": "/imgs/dog1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Multipack",
+        "price": 1199,
+        "imgUrl": "/imgs/dog2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Stylish Model",
+        "price": 14000,
+        "imgUrl": "/imgs/dog3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Extra Smol",
+        "price": 1.05,
+        "imgUrl": "/imgs/dog4.jpg"
+    }
+]
