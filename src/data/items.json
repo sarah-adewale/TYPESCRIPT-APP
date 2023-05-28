@@ -20,7 +20,31 @@
     {
         "id": 4,
         "name": "Extra Smol",
-        "price": 1.05,
+        "price": 70.05,
         "imgUrl": "/imgs/dog4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Extra Smol",
+        "price": 180.05,
+        "imgUrl": "/imgs/dog5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Extra Smol",
+        "price": 1.05,
+        "imgUrl": "/imgs/dog6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Extra Smol",
+        "price": 1.05,
+        "imgUrl": "/imgs/dog7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Extra Smol",
+        "price": 1.05,
+        "imgUrl": "/imgs/dog9.jpg"
     }
 ]
